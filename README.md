@@ -35,15 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
-
----
-
-## 📂 Projects
-
-- 🗣️ [PyBuddy Voice Assistant](https://github.com/Ashutosh45-Iet/PyBuddy_Voice_Assistant) — A personal voice assistant that performs tasks via speech input
-- 🎮 [Snake Game in Python](https://github.com/Ashutosh45-Iet/SnakeGame) — A classic snake game using `pygame`
-- 👨‍🏫 [Smart Attendance System](https://github.com/Ashutosh45-Iet/Smart-Attendance) — Uses `Python`, `OpenCV`, and `face recognition` for automating attendance
-
 ---
 
 ## 🧠 Coding Profiles
