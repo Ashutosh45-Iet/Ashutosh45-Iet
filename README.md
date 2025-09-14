@@ -13,35 +13,37 @@
 ---
 
 ## 🚀 About Me
-
-- 🎓 I'm a **B.Tech student in Computer Science & Engineering (AI)** at **IET Lucknow** (2022–2026)
-- 📚 Currently learning **Data Science, Machine Learning,NLP and Deep Learning**
-- 🧠 Strong in **C++, Python, DSA, and Algorithms**
-- 💡 Interested in solving real-world problems using AI and software
-- 💬 Ask me about **Python, C++, OpenCV, AI/ML, EDA**
-- 🌱 Constantly improving through projects and coding platforms
-- ⚡ Fun fact: I play cricket and enjoy tech fests!
-
+- 🎓 I'm a **B.Tech student in Computer Science & Engineering (AI)** at **IET Lucknow** (2022–2026
+- 📚 Currently learning **Data Science, Machine Learning, NLP, Deep Learning**
+- 🧠 Strong in **C++, Python,SQL, Data Structure and Algorithms**
+- 💡 Passionate about solving real-world problems using **AI/ML, Data Analysis,Data Processing, and software development**
+- 💬 Ask me about **Python, C++, AI/ML, EDA, Feature Engineering, and problem-solving**
+- 🌱 Continuously improving through **projects, coding platforms, and hands-on practice**
+- ⚡ Fun fact: I **play cricket** and enjoy participating in **tech fests**
 ---
-
 ## 🛠️ Skills & Tools  
 
 #### 🚀 Programming  
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />  
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />  
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
 
-#### 🤖 Machine Learning / AI  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />  
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />  
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />  
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />  
-<img src="https://img.shields.io/badge/Matplotlib-00427E?style=flat&logo=matplotlib&logoColor=white" />  
-<img src="https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white" />  
+#### 🤖 AI / Machine Learning   
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-00427E?style=flat&logo=matplotlib&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white" />
+</p>
+
 
 ---
 
