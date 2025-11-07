@@ -49,9 +49,9 @@
 
 ## 🧠 Coding Profiles
 
-- 💻 **LeetCode:** 420+ problems solved    
+- 💻 **LeetCode:** 530+ problems solved    
 - 🌟 **GeeksforGeeks:** 4-star, Max Rating 1840  
-- 🍽️ **CodeChef:** 2-star, Max Rating 1459  
+- 🍽️ **CodeChef:** 3-star, Max Rating 1641  
 
 ## 📫 Contact Me
 
